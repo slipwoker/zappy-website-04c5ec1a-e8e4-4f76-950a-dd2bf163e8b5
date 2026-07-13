@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-04c5ec1a.zappy5.app
+https://example.com
 חנות בגדי ים מובילה בין אתרי האופנה המובילים. קולקציות מעוצבות, בדים איכותיים ומשלוח מהיר. גלי עכשיו את הסטייל המושלם לחוף ובריכה.
 
 ### מדריך התאמה
-https://-04c5ec1a.zappy5.app/fit-guide
+https://example.com/fit-guide
 מדריך התאמה אישית שיחסוך לכם החזרות ויבטיח מראה מחמיא. טיפים מקצועיים לבחירת בגד ים לפי מבנה גוף, מידה וסגנון. התחילו למדוד ולדגמן בביטחון.
 
 ### קיימות
-https://-04c5ec1a.zappy5.app/sustainability
+https://example.com/sustainability
 גלו איך אנחנו משלבים סטייל עם אחריות סביבתית. בדים ממוחזרים, ייצור אתי ואריזות מתכלות. הצטרפו למהפכת הקיימות באתרי האופנה הגדולים והטובים ביותר.
 
 ### אודות
-https://-04c5ec1a.zappy5.app/about
+https://example.com/about
 סיפור המותג שמביא רעננות לעולם בגדי הים. למה אנחנו בין אתרי האופנה האהובים? עיצוב פורץ דרך, תשוקה לים ומחויבות לכל לקוחה. בואו להכיר מקרוב.
 
 ### צור קשר
-https://-04c5ec1a.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או סטיילינג? צוות המומחים שלנו כאן בשבילכם. מלאו טופס קצר ותקבלו מענה אישי ומהיר. בואו נתחיל שיחה שתעשה לכם גלים.
 
 ### Products
-https://-04c5ec1a.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גלים של סטייל
 
 ### Cart
-https://-04c5ec1a.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-04c5ec1a.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-04c5ec1a.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-04c5ec1a.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-04c5ec1a.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-04c5ec1a.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גלים של סטייל
 
 ### Category
-https://-04c5ec1a.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גלים של סטייל
 
 ### תודה שפניתם אלינו
-https://-04c5ec1a.zappy5.app/thank-you
+https://example.com/thank-you
 גלים של סטייל - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-04c5ec1a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-04c5ec1a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-04c5ec1a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-04c5ec1a.zappy5.app/sitemap.xml
-- Robots: https://-04c5ec1a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-04c5ec1a.zappy5.app/llms-full.txt
-- Products (JSON): https://-04c5ec1a.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-04c5ec1a.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
