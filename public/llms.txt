@@ -1,0 +1,112 @@
+# גלים של סטייל — Generative Engine Optimization Map
+
+> An online swimwear store focused on selling swimwear products through a digital storefront. The brand's full identity, target audience, and unique style are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://-04c5ec1a.zappy5.app
+חנות בגדי ים מובילה בין אתרי האופנה המובילים. קולקציות מעוצבות, בדים איכותיים ומשלוח מהיר. גלי עכשיו את הסטייל המושלם לחוף ובריכה.
+
+### מדריך התאמה
+https://-04c5ec1a.zappy5.app/fit-guide
+מדריך התאמה אישית שיחסוך לכם החזרות ויבטיח מראה מחמיא. טיפים מקצועיים לבחירת בגד ים לפי מבנה גוף, מידה וסגנון. התחילו למדוד ולדגמן בביטחון.
+
+### קיימות
+https://-04c5ec1a.zappy5.app/sustainability
+גלו איך אנחנו משלבים סטייל עם אחריות סביבתית. בדים ממוחזרים, ייצור אתי ואריזות מתכלות. הצטרפו למהפכת הקיימות באתרי האופנה הגדולים והטובים ביותר.
+
+### אודות
+https://-04c5ec1a.zappy5.app/about
+סיפור המותג שמביא רעננות לעולם בגדי הים. למה אנחנו בין אתרי האופנה האהובים? עיצוב פורץ דרך, תשוקה לים ומחויבות לכל לקוחה. בואו להכיר מקרוב.
+
+### צור קשר
+https://-04c5ec1a.zappy5.app/contact
+יש שאלה על מידה, משלוח או סטיילינג? צוות המומחים שלנו כאן בשבילכם. מלאו טופס קצר ותקבלו מענה אישי ומהיר. בואו נתחיל שיחה שתעשה לכם גלים.
+
+### Products
+https://-04c5ec1a.zappy5.app/products
+המוצרים שלנו - גלים של סטייל
+
+### Cart
+https://-04c5ec1a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-04c5ec1a.zappy5.app/checkout
+תשלום
+
+### Login
+https://-04c5ec1a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-04c5ec1a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-04c5ec1a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-04c5ec1a.zappy5.app/product/:slug
+פרטי המוצר - גלים של סטייל
+
+### Category
+https://-04c5ec1a.zappy5.app/category/:slug
+מוצרים - גלים של סטייל
+
+### תודה שפניתם אלינו
+https://-04c5ec1a.zappy5.app/thank-you
+גלים של סטייל - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-04c5ec1a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-04c5ec1a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-04c5ec1a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גלים של סטייל
+An online swimwear store focused on selling swimwear products through a digital storefront. The brand's full identity, target audience, and unique style are yet to be defined.
+
+## Services/Products
+- מכירת בגדי ים
+
+## Target Audience
+- שחיינים צעירים אקטיביים
+- חובבי אופנה עירוניים
+- רוכשי בגדי ים ידידותיים לסביבה
+- קהל דתי
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-04c5ec1a.zappy5.app/sitemap.xml
+- Robots: https://-04c5ec1a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-04c5ec1a.zappy5.app/llms-full.txt
+- Products (JSON): https://-04c5ec1a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-04c5ec1a.zappy5.app/product-feed.xml
